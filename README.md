@@ -12,6 +12,6 @@ A site for getting random film recommendations from [verygoodfilms.co](https://v
 
 ### Running Project
 
-1. Run yarn to install dependencies.
+1. Run `yarn` to install dependencies.
 2. Start the development server with `yarn dev`.
 3. Open [http://localhost:3000](http://localhost:3000) to see the result.
